@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-        <title><center>ISIKAN DATA DI BAWAH INI</title></center>
+        <tittle><center>ISIKAN DATA DI BAWAH INI</tittle></center>
 
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
